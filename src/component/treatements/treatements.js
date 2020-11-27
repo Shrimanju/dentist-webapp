@@ -151,7 +151,7 @@ function Treatements() {
 
 
 
-{/* <div><Treatmentsubmitform/></div> */}
+ <div><Treatmentsubmitform/></div> 
 
       </div>
     </div>
